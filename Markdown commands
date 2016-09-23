@@ -1,0 +1,32 @@
+# 標題 1
+## 標題 2
+### 標題 3
+
+- 列表 1
+  > 列表放引言要縮排
+- 列表 2
+
+
+1. 數字列表 1
+2. 數字列表 2
+
+> 這是引言
+>> 二階引言
+
+要放連結 [這樣](https://www.google.com)
+放圖片 ![easy](http://cdn.slidesharecdn.com/profile-photo-canalseekr-96x96.jpg?cb=1431094130)
+
+函示名稱 `print()`
+
+```java
+public class Fucker(){
+  private void fuck(Target target);
+}
+```
+
+```ruby
+def wtf
+  @raper = Raper.create()
+  puts @raper.now_target
+end
+```
